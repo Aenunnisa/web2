@@ -1,0 +1,1 @@
+<iframe src="chrome://print/pdf/index.html?chrome://print/3/0/print.pdf" class="preview-area-plugin" id="pdf-viewer" tabindex="0"></iframe>
